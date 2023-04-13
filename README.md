@@ -8,7 +8,7 @@ Project on how to implement glass morphism into a simple calculator
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanw2457&theme=blue-green)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ethanw2457)
 
 ## 😂Random Joke for visiting this ReadMe!😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
